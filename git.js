@@ -3,11 +3,9 @@ $(document).ready(function(){
     $('#bouton').click(function(){
         console.log('dd');
 
-'#bouton').after('<div>pull request brache test</div>');
 
-
-        $('#bouton').after('<div>pull request 4eme session</div>');
-
+ 
+        $('#bouton').after('<div>bonjour</div>');
 
         
     })
