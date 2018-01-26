@@ -4,7 +4,7 @@ $(document).ready(function(){
         console.log('dd');
 
  test
-        $('#bouton').after('<div>pull request 2eme session</div>');
+        $('#bouton').after('<div>pull request 3eme session</div>');
 
         
     })
